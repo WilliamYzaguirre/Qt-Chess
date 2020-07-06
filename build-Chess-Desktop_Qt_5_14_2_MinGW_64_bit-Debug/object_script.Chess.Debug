@@ -1,0 +1,15 @@
+debug/main.o
+debug/game.o
+debug/chessbox.o
+debug/chessboard.o
+debug/chesspiece.o
+debug/queen.o
+debug/pawn.o
+debug/bishop.o
+debug/knight.o
+debug/rook.o
+debug/king.o
+debug/button.o
+debug/qrc_resource.o
+debug/moc_game.o
+debug/moc_button.o
